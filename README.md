@@ -23,8 +23,3 @@ O sistema:
 4. Observe o LED e Serial Monitor respondendo
 
 
-graph LR
-    P[Potenciômetro] -->|Lê valor| A(Arduino)
-    A -->|Valor > 500?| L[Liga LED]
-    A -->|Valor < 500?| D[Desliga LED]
-    A --> S[Serial Monitor]
