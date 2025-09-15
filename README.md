@@ -1,7 +1,7 @@
 # Projeto de Automação Sustentável com Arduino
 
 ## Descrição do Projeto
-Este repositório contém os arquivos para um sistema de controle de energia inteligente, simulando a transição automática entre fontes solar e bateria. Desenvolvido no Tinkercad como prova de conceito para a SPRINT 2, o projeto demonstra como implementar soluções sustentáveis com componentes básicos.
+Este repositório contém os arquivos para um sistema de controle de energia inteligente, simulando a transição automática entre fontes solar e bateria. Desenvolvido no Tinkercad, o projeto demonstra como implementar soluções sustentáveis com componentes básicos.
 
 ## Componentes Principais
 - `Arduino Uno R3`: Unidade de controle central
